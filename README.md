@@ -13,6 +13,6 @@
 Screen shot of nord theme with background opacity of `80%`
 
 
-![cosmic terminal nord theme screenshot](image/screenshot.png)
+![cosmic terminal nord theme screenshot](img/screenshot.png)
 
 
